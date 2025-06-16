@@ -1,0 +1,6 @@
+/Users/siddhrthsaini/IdeaProjects/Spring Boot/journalApp/src/main/java/com/cityjournal/journalApp/JournalApplication.java
+/Users/siddhrthsaini/IdeaProjects/Spring Boot/journalApp/src/main/java/com/cityjournal/journalApp/controller/HealthCheck.java
+/Users/siddhrthsaini/IdeaProjects/Spring Boot/journalApp/src/main/java/com/cityjournal/journalApp/controller/JournalEntryController.java
+/Users/siddhrthsaini/IdeaProjects/Spring Boot/journalApp/src/main/java/com/cityjournal/journalApp/entity/JournalEntry.java
+/Users/siddhrthsaini/IdeaProjects/Spring Boot/journalApp/src/main/java/com/cityjournal/journalApp/repository/JournalEntryRepository.java
+/Users/siddhrthsaini/IdeaProjects/Spring Boot/journalApp/src/main/java/com/cityjournal/journalApp/service/JournalEntryService.java

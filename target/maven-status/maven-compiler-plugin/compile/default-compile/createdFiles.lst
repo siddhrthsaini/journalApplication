@@ -1,0 +1,6 @@
+com/cityjournal/journalApp/repository/JournalEntryRepository.class
+com/cityjournal/journalApp/entity/JournalEntry.class
+com/cityjournal/journalApp/JournalApplication.class
+com/cityjournal/journalApp/controller/JournalEntryController.class
+com/cityjournal/journalApp/controller/HealthCheck.class
+com/cityjournal/journalApp/service/JournalEntryService.class
