@@ -1,6 +1,10 @@
-/Users/siddhrthsaini/IdeaProjects/Spring Boot/journalApp/src/main/java/com/cityjournal/journalApp/JournalApplication.java
-/Users/siddhrthsaini/IdeaProjects/Spring Boot/journalApp/src/main/java/com/cityjournal/journalApp/controller/HealthCheck.java
-/Users/siddhrthsaini/IdeaProjects/Spring Boot/journalApp/src/main/java/com/cityjournal/journalApp/controller/JournalEntryController.java
-/Users/siddhrthsaini/IdeaProjects/Spring Boot/journalApp/src/main/java/com/cityjournal/journalApp/entity/JournalEntry.java
-/Users/siddhrthsaini/IdeaProjects/Spring Boot/journalApp/src/main/java/com/cityjournal/journalApp/repository/JournalEntryRepository.java
-/Users/siddhrthsaini/IdeaProjects/Spring Boot/journalApp/src/main/java/com/cityjournal/journalApp/service/JournalEntryService.java
+/Users/siddharth/Desktop/journalApp/src/main/java/com/devbackend/journalApp/Config/SpringSecurity.java
+/Users/siddharth/Desktop/journalApp/src/main/java/com/devbackend/journalApp/Controller/JournalEntryController.java
+/Users/siddharth/Desktop/journalApp/src/main/java/com/devbackend/journalApp/Controller/UserController.java
+/Users/siddharth/Desktop/journalApp/src/main/java/com/devbackend/journalApp/Entity/JournalEntry.java
+/Users/siddharth/Desktop/journalApp/src/main/java/com/devbackend/journalApp/Entity/User.java
+/Users/siddharth/Desktop/journalApp/src/main/java/com/devbackend/journalApp/JournalApplication.java
+/Users/siddharth/Desktop/journalApp/src/main/java/com/devbackend/journalApp/Repo/JournalEntryRepo.java
+/Users/siddharth/Desktop/journalApp/src/main/java/com/devbackend/journalApp/Repo/UserRepo.java
+/Users/siddharth/Desktop/journalApp/src/main/java/com/devbackend/journalApp/Services/JournalEntryService.java
+/Users/siddharth/Desktop/journalApp/src/main/java/com/devbackend/journalApp/Services/UserService.java
